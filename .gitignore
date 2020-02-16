@@ -1,2 +1,9 @@
 *.class
 *.log
+.idea/.gitignore
+.idea/misc.xml
+*.iml
+.idea/codeStyles/
+.idea/modules.xml
+.idea/myworks-scala.iml
+.idea/vcs.xml
